@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Steganography: Hiding an image inside another
 
@@ -88,3 +89,6 @@ The left upper image is the image that will hide the right upper image. The left
 ![](https://cdn-images-1.medium.com/max/2000/1*4paRMea_BGeNpJ2VzFGCoA.png)
 
 As you can see in the image above, we lost some image quality in the process, but this does not interfere with image comprehension.
+=======
+# FaceAnti-spoofing-DeepLearning-B.E.2024
+>>>>>>> 5aec40818cf5160fb5cb76de2d4ac409b5d46a04
